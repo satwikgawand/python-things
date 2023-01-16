@@ -6,5 +6,5 @@ Python Things is a blog series I do on dev.to and medium.com where I write short
 
 <details>
   <summary>Article List</summary>
-  1. Python File Headers [link](https://dev.to)
+  1. Python File Headers [<a href="">article</a>][<a href="">file</a>]
 </details>
